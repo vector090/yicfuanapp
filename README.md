@@ -1,4 +1,4 @@
 yicfuanapp
 ==========
 
-Repo fo releasing Android app
+Repo for releasing Android app
